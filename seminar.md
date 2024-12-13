@@ -155,3 +155,64 @@ AI:n skulle kunna förstöra kod man redan har skrivit, så man bör inte klistr
 
 Eventuella copyright-problem skulle också kunna skapa problem i samband med AI. Om man jobbar för ett företag med hemligheter bör man tänka sig för innan man klistrar in kod, så att man inte gör företagshemligheter offentliga. Man vill inte att någon annan ska få tillgång till koden som företaget använder för att hålla konkurenskraftiga. (Det här är kanske mest aktuellt för oss när kommer till LIA, men viktigt att tänka på.)
 
+----------------------------------------------------------------------------------------------------------------------------
+
+11. Vilka styrkor och svagheter / risker ser ni hos Github Copilot för er som studenter?
+
+Det kan finnas en risk att man inte lär sig så mycket om man låter AI-verktyg som Copilot göra koden åt en. Man får inte möjlighet att nöta saker, vilket som sagt kan resultera i att man inte lär sig vad man gör. Motsvarande det som kan ha hänt med autocomplete-funktionen i telefonen, det vill säga att vi har blivit sämre på att skriva och stava för att vi inte har lärt oss när telefonen har gjort saker åt oss.
+
+Med det sagt skulle det också kunna finnas positiva saker med Github Copilot och AI överlag. Copilot kunde till exempel beskriva och förklara kod, vilket kan vara hjälpsamt och lärorikt under tiden man studerar. Använd med måtta helt enkelt! :)
+
+----------------------------------------------------------------------------------------------------------------------------
+
+12. Kan ni se några scenarion för er som studerande där Github Copilot skulle vara okej att använda?
+
+Om man är på LIA och företaget man jobbar åt kan man såklart använda Copilot.
+
+Även när man är helt bekväm med något och vet vad koden man skriver innebär, men vill spara tid, så kan Copilot vara till hjälp. Men då behöver man komma till den punkt då man känner att man verkligen kan det man gör.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+13. Vad tycker ni verkar vara mest "najs" med Github Copilot?
+
+Att man kan spara mycket tid på att inte behöva skriva in "basic" kod. Det gör att man kanske får mer tid att experimentera och utveckla kod ännu mer. Det såg väldigt "najs" ut att ha verktygen direkt i VS-code och inte behöva hoppa ur programmet för att fråga Aizo eller ChatGPT, det kändes också som en tidsbesparande faktor.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+14. Hur ser ni på våra roller som utvecklare i framtiden, där vissa oroliga röster höjs inför hotet om AI som skall ta över våra jobb på lång sikt?
+
+Det är jättesvårt att veta. Det finns såklart en oro över att jobben blir färre. Det kommer troligtvis att dröja innan AI kan ta över helt, men vi ser redan att det händer att företag drar ner på anställda och jobbar med AI istället. Till exempel Spotify är ett känt exempel. Inom andra brancher förekommer en idé om att AI ska göra processen snabbare, men att det i vissa fall kanske kan vara tvärt om. Risken finns att det påverkar oss också, att man tror att det vi gör ska gå fortare och att det därför ska behövas färre folk. Med AI riskerar vi också att tappa idén om att "man måste kunna reglerna för att kunna bryta dem". En idé som ser svår ut på papper skulle kunna vara en bra designidé i praktiken, men det klarar inte AI ut att bedöma som det ser ut idag.
+
+Vi tror att det här ställer höga krav på oss att hålla oss uppdaterade när vi kommer ut i arbetslivet. Vi behöver arbeta tillsammans med AI, samtidigt som vi också konkurrerar mot den.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+15. Vilka risker ser ni med att använda sig av AI som en källa för kodskrivande i yrkeslivet?
+
+Det finns visa risker med att man Copyrightar annan kod om man är oaktsam. Om man jobbar med kod som företaget vill hålla hemlig för att hålla sig konkurrenskraftiga bör man vara försiktig med att ladda upp sin kod på internet så att t.ex. ChatGPT inte börjar använda sig av kod som egentligen är företagshemligheter för att generera kod till andra användare.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+16. Vilka andra AI tjänster kan vara relevanta för oss utvecklare att känna till och använda oss utav. Leta reda på 3 tjänster och skriv 3-4 menigar om vardera.
+
+De flesta verktyg vi hittade liknar Copilot. De flesta genererar kod och försöker i regel täcka in samma behov. Några av de tjänster vi tyckte stack ut lite mer var:
+
+Synk - Ett verktyg som hjälper till att upptäcka sårbarheter när det kommer till säkerhet och rättigheter gällande kod. Vi tyckte att det verkar vara ett bra verktyg som hjälp och skyddsnät eftersom vi själva är osäkra på vad som gäller när det kommer till säkerhet och rättigheter. Det är ändå en väldigt viktig del av att koda och det känns bra att ha den som en extra säkerhetskoll, även om det såklart är viktigt att lära sig och tänka själv också.
+
+Figstack - Figstack kan förklara kod på ett "naturligt/mänskligt" språk. Dessutom kan den hjälpa till att översätta kod från ett kodspråk till ett annat. Till exempel om man har en kod i python som man vill översätta till JavaScript kan Figstack göra det. Vi tycker att kan vara till stor hjälp att programmet översätter kod om man behöver göra det.
+
+What The Diff - Underlättar kommunikation och skapar automatiskt beskrivningar för pull requests. Skickar även sammanfattningar till andra stakeholders. Vi tror att det här kan underlätta för grupparbeten i Git och GitHub.
+
+----------------------------------------------------------------------------------------------------------------------------
+
+17. Av de verktyg som ni letat upp samt de som tagits upp i tidigare frågor, vilket tror ni att ni skulle ha mest användning av i er roll som studerande, samt i er yrkesroll? Motivera.
+
+Vi tyckte att Copilot verkade vara ett bra övergripande verktyg, så vi tror att det skulle vara Copilot eller en motsvarande tjänst som skulle vara till mest hjälp överlag. De alternativ vi tog upp i fråga 16. var mer för att lösa specifika problem, men till exempel Copilot känns som ett bra stöd för att lära sig programera och att faktiskt programera.
+
+
+
+
+
+
+
+
